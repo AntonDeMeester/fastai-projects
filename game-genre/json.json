@@ -1,0 +1,687 @@
+{
+    "count": 354131,
+    "next": "https://api.rawg.io/api/games?ordering=added&page=2&page_size=5",
+    "previous": null,
+    "results": [
+        {
+            "id": 403001,
+            "slug": "dr-grordborts-invaders",
+            "name": "Dr. Grordbort's Invaders",
+            "released": "2019-12-31",
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [],
+            "parent_platforms": [],
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action",
+                    "games_count": 78662,
+                    "image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter",
+                    "games_count": 22115,
+                    "image_background": "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg"
+                }
+            ],
+            "stores": [],
+            "clip": null,
+            "short_screenshots": []
+        },
+        {
+            "id": 403000,
+            "slug": "tonandi",
+            "name": "T\u00f3nandi",
+            "released": "2019-12-31",
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [],
+            "parent_platforms": [],
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation",
+                    "games_count": 33095,
+                    "image_background": "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg"
+                },
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual",
+                    "games_count": 24417,
+                    "image_background": "https://media.rawg.io/media/screenshots/072/07222ab3475a9da84a0359bb3a33b679.jpg"
+                }
+            ],
+            "stores": [],
+            "clip": null,
+            "short_screenshots": []
+        },
+        {
+            "id": 402993,
+            "slug": "bomb-runner",
+            "name": "Bomb Runner",
+            "released": "2020-01-02",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/91b/91b1f8e515402bebcf0d3abd07ee25d2.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 197836,
+                        "image_background": "https://media.rawg.io/media/screenshots/19d/19d3effb85e8f40d0b5b004fb5ab5c76.jpg"
+                    },
+                    "released_at": "2020-01-02",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": [],
+            "stores": [
+                {
+                    "id": 392855,
+                    "store": {
+                        "id": 9,
+                        "name": "itch.io",
+                        "slug": "itch",
+                        "domain": "itch.io",
+                        "games_count": 206864,
+                        "image_background": "https://media.rawg.io/media/games/b61/b6193c5c1f917f38dce568f335f80c16.jpg"
+                    },
+                    "url_en": "https://webmangames.itch.io/bomb-runner",
+                    "url_ru": ""
+                }
+            ],
+            "clip": null,
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/91b/91b1f8e515402bebcf0d3abd07ee25d2.jpg"
+                },
+                {
+                    "id": 2267859,
+                    "image": "https://media.rawg.io/media/screenshots/46c/46c6c79789d4c933f197402e70c34cb3.jpg"
+                },
+                {
+                    "id": 2267860,
+                    "image": "https://media.rawg.io/media/screenshots/b7c/b7c181dd7d15e59c64a7c5e3fa41618a.jpg"
+                },
+                {
+                    "id": 2267861,
+                    "image": "https://media.rawg.io/media/screenshots/91b/91b1f8e515402bebcf0d3abd07ee25d2.jpg"
+                }
+            ]
+        },
+        {
+            "id": 402992,
+            "slug": "sarata",
+            "name": "Sarata",
+            "released": "2020-01-02",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/f9d/f9d44ce2f0fa88d46b11caee8f41217e.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 197836,
+                        "image_background": "https://media.rawg.io/media/screenshots/19d/19d3effb85e8f40d0b5b004fb5ab5c76.jpg"
+                    },
+                    "released_at": "2020-01-02",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 6,
+                    "name": "Fighting",
+                    "slug": "fighting",
+                    "games_count": 4410,
+                    "image_background": "https://media.rawg.io/media/screenshots/d2e/d2e117a863a87367d2589a7b0d6d4854_hFYCmjZ.jpg"
+                }
+            ],
+            "stores": [
+                {
+                    "id": 392854,
+                    "store": {
+                        "id": 9,
+                        "name": "itch.io",
+                        "slug": "itch",
+                        "domain": "itch.io",
+                        "games_count": 206864,
+                        "image_background": "https://media.rawg.io/media/games/b61/b6193c5c1f917f38dce568f335f80c16.jpg"
+                    },
+                    "url_en": "https://mhamadtahir44.itch.io/sarata",
+                    "url_ru": ""
+                }
+            ],
+            "clip": null,
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/f9d/f9d44ce2f0fa88d46b11caee8f41217e.jpg"
+                },
+                {
+                    "id": 2267858,
+                    "image": "https://media.rawg.io/media/screenshots/f9d/f9d44ce2f0fa88d46b11caee8f41217e.jpg"
+                }
+            ]
+        },
+        {
+            "id": 402991,
+            "slug": "blocky-survival",
+            "name": "Blocky Survival",
+            "released": "2020-01-02",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/617/617a1da50e9952a6abcbf6ea9a542699.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 197836,
+                        "image_background": "https://media.rawg.io/media/screenshots/19d/19d3effb85e8f40d0b5b004fb5ab5c76.jpg"
+                    },
+                    "released_at": "2020-01-02",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": [],
+            "stores": [
+                {
+                    "id": 392853,
+                    "store": {
+                        "id": 9,
+                        "name": "itch.io",
+                        "slug": "itch",
+                        "domain": "itch.io",
+                        "games_count": 206864,
+                        "image_background": "https://media.rawg.io/media/games/b61/b6193c5c1f917f38dce568f335f80c16.jpg"
+                    },
+                    "url_en": "https://alessandro-studios.itch.io/blocky-survival",
+                    "url_ru": ""
+                }
+            ],
+            "clip": null,
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/617/617a1da50e9952a6abcbf6ea9a542699.jpg"
+                },
+                {
+                    "id": 2267856,
+                    "image": "https://media.rawg.io/media/screenshots/d69/d6960e5dd1aa8822a6b84e23c5f0ca80.jpg"
+                },
+                {
+                    "id": 2267857,
+                    "image": "https://media.rawg.io/media/screenshots/617/617a1da50e9952a6abcbf6ea9a542699.jpg"
+                }
+            ]
+        }
+    ],
+    "seo_title": "All Games",
+    "seo_description": "",
+    "seo_keywords": "",
+    "seo_h1": "All Games",
+    "noindex": false,
+    "nofollow": false,
+    "description": "",
+    "filters": {
+        "years": [
+            {
+                "from": 2020,
+                "to": 2020,
+                "filter": "2020-01-01,2020-12-31",
+                "decade": 2020,
+                "years": [
+                    {
+                        "year": 2020,
+                        "count": 925,
+                        "nofollow": false
+                    }
+                ],
+                "nofollow": true,
+                "count": 925
+            },
+            {
+                "from": 2010,
+                "to": 2019,
+                "filter": "2010-01-01,2019-12-31",
+                "decade": 2010,
+                "years": [
+                    {
+                        "year": 2019,
+                        "count": 78883,
+                        "nofollow": false
+                    },
+                    {
+                        "year": 2018,
+                        "count": 71169,
+                        "nofollow": false
+                    },
+                    {
+                        "year": 2017,
+                        "count": 56163,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2016,
+                        "count": 41045,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2015,
+                        "count": 26197,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2014,
+                        "count": 15424,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2013,
+                        "count": 6198,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2012,
+                        "count": 5243,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2011,
+                        "count": 4198,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2010,
+                        "count": 3761,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 308281
+            },
+            {
+                "from": 2000,
+                "to": 2009,
+                "filter": "2000-01-01,2009-12-31",
+                "decade": 2000,
+                "years": [
+                    {
+                        "year": 2009,
+                        "count": 3019,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2008,
+                        "count": 1921,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2007,
+                        "count": 1463,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2006,
+                        "count": 1164,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2005,
+                        "count": 1035,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2004,
+                        "count": 1043,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2003,
+                        "count": 1036,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2002,
+                        "count": 907,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2001,
+                        "count": 1038,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2000,
+                        "count": 905,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 13531
+            },
+            {
+                "from": 1990,
+                "to": 1999,
+                "filter": "1990-01-01,1999-12-31",
+                "decade": 1990,
+                "years": [
+                    {
+                        "year": 1999,
+                        "count": 697,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1998,
+                        "count": 636,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1997,
+                        "count": 804,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1996,
+                        "count": 654,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1995,
+                        "count": 773,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1994,
+                        "count": 722,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1993,
+                        "count": 679,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1992,
+                        "count": 595,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1991,
+                        "count": 521,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1990,
+                        "count": 493,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 6574
+            },
+            {
+                "from": 1980,
+                "to": 1989,
+                "filter": "1980-01-01,1989-12-31",
+                "decade": 1980,
+                "years": [
+                    {
+                        "year": 1989,
+                        "count": 385,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1988,
+                        "count": 295,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1987,
+                        "count": 320,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1986,
+                        "count": 240,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1985,
+                        "count": 219,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1984,
+                        "count": 175,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1983,
+                        "count": 198,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1982,
+                        "count": 137,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1981,
+                        "count": 63,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1980,
+                        "count": 34,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 2066
+            },
+            {
+                "from": 1970,
+                "to": 1979,
+                "filter": "1970-01-01,1979-12-31",
+                "decade": 1970,
+                "years": [
+                    {
+                        "year": 1979,
+                        "count": 15,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1978,
+                        "count": 16,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1977,
+                        "count": 11,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1976,
+                        "count": 7,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1975,
+                        "count": 2,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1974,
+                        "count": 1,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1972,
+                        "count": 1,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1971,
+                        "count": 4,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1970,
+                        "count": 1,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 58
+            },
+            {
+                "from": 1960,
+                "to": 1969,
+                "filter": "1960-01-01,1969-12-31",
+                "decade": 1960,
+                "years": [
+                    {
+                        "year": 1966,
+                        "count": 1,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1962,
+                        "count": 1,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 2
+            }
+        ]
+    },
+    "nofollow_collections": [
+        "stores"
+    ]
+}
