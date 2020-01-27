@@ -6,7 +6,7 @@ from pathlib import Path
 import random
 from typing import Union, Dict
 
-import magic as magic_base 
+import magic as magic_base
 import requests
 
 RAWG_BASE_URL = "https://api.rawg.io/api"
@@ -19,20 +19,23 @@ CSV_LOCATION = "image-labels.csv"
 
 magic = magic_base.Magic(magic_file="magic.mgc")
 
-DATA_STRUCTURE = OrderedDict(**{
-    "id": "id",
-    "name": "name",
-    "released": "released",
-    "rating": "rating",
-    "genres": "genres",
-    "image_web": "background_image",
-    "image_location": "file_location",
-})
+DATA_STRUCTURE = OrderedDict(
+    **{
+        "id": "id",
+        "name": "name",
+        "released": "released",
+        "rating": "rating",
+        "genres": "genres",
+        "image_web": "background_image",
+        "image_location": "file_location",
+    }
+)
 
 
 def get_games(page_number: int = 1, genre: Union[int, str] = None) -> bool:
     ensure_label_csv()
     return _get_games(page_number, genre)
+
 
 def _get_games(page_number: int = 1, genre: Union[int, str] = None) -> bool:
     """
@@ -127,6 +130,7 @@ def write_file(image, location):
     with open(location, "wb+") as image_file:
         image_file.write(image)
 
+
 def ensure_image_dir():
     os.makedirs(DATA_DIR_NAME, exist_ok=True)
 
@@ -139,16 +143,17 @@ def ensure_label_csv():
 
 def append_to_csv(game_info, file_location):
     csv_items = []
-    
+
     for key, value in DATA_STRUCTURE.items():
         if value == "file_location":
             csv_items.append(file_location)
         elif key == "genres":
             csv_items.append("-".join(map(lambda x: str(x["name"]), game_info[value])))
-        else:   
+        else:
             csv_items.append(game_info[value])
     csv_items = map(lambda x: str(x).replace(",", "."), csv_items)
     return ",".join(csv_items)
+
 
 def write_csv(text, create=False):
     mode = "a+" if create else "a"
